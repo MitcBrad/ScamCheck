@@ -24,7 +24,7 @@
       border: none; 
       border-radius: 10px;   /* rounded corners */
       background-color: #0077cc;
-      color: rgb(82, 83, 124);
+      color: rgb(138, 139, 160);
       cursor: pointer;
       transition: background-color 0.2s ease;
     }
