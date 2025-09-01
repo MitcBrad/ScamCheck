@@ -40,3 +40,10 @@
       border-radius: 12px;   /* rounded corners */
       background: #333147;
     }
+
+    h1{
+        color: #ccc;
+    }
+    p {
+        color: #ccc;
+    }
